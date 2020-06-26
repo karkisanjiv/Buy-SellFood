@@ -1,0 +1,105 @@
+body {
+  background:#fff ;
+}
+.brand-logo {
+    color: #fff;
+    padding:10px;
+}
+
+.brand-logo h2{
+    color: #fff;
+    font-size:25px;
+}
+
+.input{
+
+}
+.input_container{
+    float: right;
+   
+  
+}
+
+.input #zip{
+  float: left;
+} 
+
+.input #phone{
+    font-size: 30px;
+} 
+
+
+.card {
+  background:#fff ;
+  border-radius: 2px;
+  display: inline-block;
+  height: 300px;
+  margin: 1rem;
+  position: relative;
+  width: 300px;
+  padding:20px;
+  opacity: 1.0;
+}
+
+
+
+.card-1 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  height: 300px;
+   
+  
+}
+
+.card-1:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.mdl-textfield__input{
+  color:#000000;
+}
+
+.small_container{
+   margin: auto;
+    margin-top: 92px;
+    border-radius: 10px;
+    opacity: 0.9;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.head{
+    color: white;
+    font-size: 87px;
+    font-family: monospace;
+    opacity: 0.7;
+   
+}
+
+
+.white_container{
+        color: white;
+    margin-top: 300px;
+    /* opacity: 0.2; */
+    background: rgba(255,255,255,.4);
+    width: 100%;
+    height: 50%;
+}
+
+.text{
+  margin-left: 20px;
+  font-size: 15px;
+  font-family: PT Serif,sans-serif;
+  color:white;
+  opacity:1;
+  z-index: -1;
+}
+
+
+.black_container{
+    margin-top: 300px;
+    width:100%;
+    height: 50%;
+}
+
